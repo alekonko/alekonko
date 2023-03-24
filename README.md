@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<p align="center">Visitor Counter: <img align="center" src="https://profile-counter.glitch.me/{alekonko}/count.svg" /></p> 
 
 <!--
 **alekonko/alekonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
