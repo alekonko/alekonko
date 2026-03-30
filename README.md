@@ -1,18 +1,15 @@
-### Hi there 👋
+# $ whoami
 
-<p align="center">Visitor Counter: <img align="center" src="https://profile-counter.glitch.me/{alekonko}/count.svg" /></p> 
+```
+Alessandro Conconi — Senior IT Architect
+Turin, Italy · IT Infrastructure Architect · Cloud & Containers
+```
 
-<!--
-**alekonko/alekonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior IT Architect with hands-on expertise in **cloud infrastructure**, **container orchestration** and enterprise platform engineering.  
+I design and operate large-scale systems on **GCP** and **VMware**, with deep specialisation in **Kubernetes** and **OpenShift**.  
+Comfortable across the full stack — from low-level infrastructure to application deployment pipelines.  
+Currently expanding into **Generative AI** architectures and MLOps. I automate everything and write clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **[→ Full profile](https://alekonko.github.io/myinfos/)** · [LinkedIn](https://www.linkedin.com/in/aleconco) · [GitHub](https://github.com/alekonko)
